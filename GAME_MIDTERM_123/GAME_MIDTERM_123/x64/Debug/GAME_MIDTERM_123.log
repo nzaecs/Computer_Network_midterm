@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\nazar\source\repos\GAME_MIDTERM_123\GAME_MIDTERM_123\client.cpp(42,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GAME_MIDTERM_123.vcxproj -> C:\Users\nazar\source\repos\GAME_MIDTERM_123\GAME_MIDTERM_123\x64\Debug\GAME_MIDTERM_123.exe
